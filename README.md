@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,prisma,express,figma,html,java,js,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,prisma,express,figma,html,java,js,linux,md,materialui,mysql,nextjs,nodejs,bootstrap,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
