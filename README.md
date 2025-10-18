@@ -1,5 +1,5 @@
 <h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimecal&show_icons=true&theme=dark&locale=en&layout=compact" alt="jimecal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jime-cal&show_icons=true&theme=dark&locale=en&layout=compact" alt="jime-cal" /></p>
 <br><br><br><br><br><br><br>
 
 
