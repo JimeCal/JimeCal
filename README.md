@@ -1,4 +1,5 @@
 <h2 align="center">🧠 About Me</h2>
+<br></br>
 <p align="center">
   - 🎓 Computer Science student passionate about frontend and UI/UX<br/>
   - 💻 Currently learning backend and full-stack development<br/>
@@ -8,12 +9,14 @@
 <br></br>
 
 <h2 align="center">Technologies That I Know</h2>
+<br></br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,gitlab,css,docker,prisma,php,wordpress,figma,html,java,js,arduino,blender,github,ubuntu,express,md,materialui,mysql,nextjs,nodejs,bootstrap,postman,py,react,tailwind,ts,vscode&perline=14" alt="Tech Stack Icons" />
 </p>
 <br></br>
 
 <h2 align="center">Connect With Me</h2>
+<br></br>
 <p align="center">
   <a href="https://www.linkedin.com/in/jimena-calderon-607b41325/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
@@ -26,6 +29,7 @@
 <br></br>
 
 <h2 align="center">GitHub Stats & Activity</h2>
+<br></br>
 <div align="center">
   <table>
     <tr>
