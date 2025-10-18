@@ -10,9 +10,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,css,docker,prisma,php,wordpress,figma,html,java,js,ubuntu,md,materialui,mysql,nextjs,nodejs,bootstrap,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
 </p>
 
 <div id="user-content-toc">
