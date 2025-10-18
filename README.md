@@ -9,7 +9,7 @@
 
 <h2 align="center">Technologies That I Know</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,css,docker,prisma,php,wordpress,figma,html,java,js,ubuntu,md,materialui,mysql,nextjs,nodejs,bootstrap,postman,py,react,tailwind,ts,vscode&perline=14" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,css,docker,prisma,php,wordpress,figma,html,java,js,arduino,blender,github,ubuntu,express,md,materialui,mysql,nextjs,nodejs,bootstrap,postman,py,react,tailwind,ts,vscode&perline=14" alt="Tech Stack Icons" />
 </p>
 <br></br>
 
