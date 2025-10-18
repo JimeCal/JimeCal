@@ -40,9 +40,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your_email@example.com" target="_blank" rel="noopener noreferrer">
+  <!-- <a href="mailto:your_email@example.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
-  </a>
+  </a> -->
 </p>
 
 <hr style="height:1px; border:none; background-color:#333;"/>
