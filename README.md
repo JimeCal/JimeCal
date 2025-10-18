@@ -51,6 +51,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JimeCal&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JimeCal&style=flat-square&color=blue" alt="Profile Views" />
-</p>
