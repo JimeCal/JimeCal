@@ -1,19 +1,21 @@
 <h2>📊 My GitHub Stats</h2>
 
 <div align="center">
-<table width="100%">
+<table>
   <tr>
-    <td align="center">
-      <h3>👤 Cuenta Personal</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimeCal&layout=compact&theme=dark" alt="Top Langs - Personal" />
+    <td align="center" width="50%">
+      <h3>👤 Personal Account</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimeCal&layout=compact&theme=dark" alt="Top Languages - Personal" style="width: 100%;"/>
     </td>
-    <td align="center">
-      <h3>🎓 Cuenta de Estudiante (@Jime-Cal)</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jime-Cal&layout=compact&theme=dark" alt="Top Langs - Estudiante" />
+    <td align="center" width="50%">
+      <h3>🎓 Student Account (@Jime-Cal)</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jime-Cal&layout=compact&theme=dark" alt="Top Languages - Student" style="width: 100%;"/>
     </td>
   </tr>
 </table>
 </div>
+
+
 
 
 <div id="user-content-toc">
